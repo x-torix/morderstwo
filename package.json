@@ -1,0 +1,14 @@
+{
+    "name": "node_test",
+    "version": "1.0.0",
+    "description": "chujtest",
+    "main": "index.js",
+    "scripts": {
+      "test": "nodemon index.js"
+    },
+    "author": "MartynaPiwowarska",
+    "license": "Beerware",
+    "dependencies": {
+      "nodemon": "^3.0.1"
+    }
+  }
